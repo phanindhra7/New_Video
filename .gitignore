@@ -1,0 +1,6 @@
+#don't track
+
+/VideoConf_Swift_Conference_SDK_within/OWT.framework
+/VideoConf_Swift_Conference_SDK_within/WebRTC.framework
+/VideoConf_Swift_Conference_SDK_within/ICS.framework
+/VideoConf_Swift_Conference_SDK_within/libsioclient_tls_no_verification.a
